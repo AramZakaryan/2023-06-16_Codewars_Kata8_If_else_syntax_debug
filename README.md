@@ -1,1 +1,1 @@
-# 2023-06-15_Codewars_Kata8_
+# 2023-06-15_Codewars_Kata8_RGB_To_Hex_Conversion
